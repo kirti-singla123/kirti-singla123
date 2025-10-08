@@ -39,6 +39,12 @@ Building modern, responsive web applications with a focus on clean code and user
 [![Email](https://img.shields.io/badge/Email-kirtisingla38231@gmail.com-red?style=flat-square&logo=gmail)](mailto:kirtisingla38231@gmail.com)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-View-green?style=flat-square)](Your_Portfolio_Link)
 
+📫 **Contact Me:**
+- [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/)
+- [GitHub](https://github.com/kirti-singla123)
+- [Portfolio](https://YOUR-PORTFOLIO-LINK.com)
+- [Email](mailto:kirtisingla38231@gmail.com)
+
 ---
 
 ## 📈 GitHub Stats
