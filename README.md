@@ -37,15 +37,8 @@ Building modern, responsive web applications with a focus on clean code and user
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kirti%20Singla-blue?style=flat-square&logo=linkedin)](Your_LinkedIn_Link)  
 [![Email](https://img.shields.io/badge/Email-kirtisingla38231@gmail.com-red?style=flat-square&logo=gmail)](mailto:kirtisingla38231@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-green?style=flat-square)](Your_Portfolio_Link)
-
-📫 **Contact Me:**
-- [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/)
-- [GitHub](https://github.com/kirti-singla123)
-- [Portfolio](https://YOUR-PORTFOLIO-LINK.com)
-- [Email](mailto:kirtisingla38231@gmail.com)
-
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-green?style=flat-square)](https://kirtisingla-portfolio.netlify.app/)
+- [GitHub]([https://github.com/kirti-singla123](https://github.com/kirti-singla123))
 
 ## 📈 GitHub Stats
 ![Kirti's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirti-singla123&show_icons=true&theme=radical)
