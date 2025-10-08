@@ -36,7 +36,7 @@ Building modern, responsive web applications with a focus on clean code and user
 - ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kirti%20Singla-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kirti-singla-web-dev/)  
-[![Email](https://img.shields.io/badge/Email-kirtisingla38231@gmail.com-red?style=flat-square&logo=gmail)](mailto:kirtisingla38231@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-kirtisingla38231@gmail.com-red?style=flat-square&logo=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=kirtisingla38231@gmail.com)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-View-green?style=flat-square)](https://kirtisingla-portfolio.netlify.app/)  
 [![GitHub](https://img.shields.io/badge/GitHub-kirti--singla123-black?style=flat-square&logo=github)](https://github.com/kirti-singla123)
 
