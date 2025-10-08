@@ -16,7 +16,7 @@ Building modern, responsive web applications with a focus on clean code and user
 ---
 
 ## 🌟 Projects
-## 🚀 Featured Projects
+
 A showcase of my best work demonstrating various technologies and problem-solving approaches.
 
 ---
@@ -24,28 +24,28 @@ A showcase of my best work demonstrating various technologies and problem-solvin
 ### 🍦 Creamy – Ice Cream E-commerce Website
 **Description:** A Django-powered ice cream shop where users can browse flavors, manage their cart, and place orders. Includes secure authentication, product browsing, and a responsive Bootstrap design.  
 **Tech Stack:** Python, Django, HTML, CSS, JavaScript, Bootstrap, SQLite, PayPal Sandbox  
-**Links:** [GitHub Repo](https://github.com/kirti-singla123/creamy) | [Live Demo](https://creamy-demo.netlify.app)
+**Links:** [GitHub Repo](https://github.com/kirti-singla123/creamy) | [Live Demo](https://creamy-com.onrender.com/)
 
 ---
 
 ### 💇‍♀️ Glamour Haven – Salon Booking Website
 **Description:** A full-stack salon booking platform where customers can schedule services online and the admin can manage appointments via a secure dashboard. Includes booking confirmation, real-time updates, and automated WhatsApp notifications.  
 **Tech Stack:** React, Tailwind CSS, Django, Django REST Framework, SQLite, Render, Netlify, WhatsApp API  
-**Links:** [GitHub Repo](https://github.com/kirti-singla123/glamourhaven) | [Live Demo](https://glamour-demo.vercel.app)
+**Links:** [GitHub Repo](https://github.com/kirti-singla123/glamourhaven) | [Live Demo](https://glamourheaven.netlify.app/)
 
 ---
 
 ### ✅ ToDoFlow – Task Management App
 **Description:** A clean and responsive task management tool with real-time updates, task persistence via localStorage, and features for adding, completing, and deleting tasks.  
 **Tech Stack:** React, JavaScript (ES6+), HTML, CSS, localStorage, React Router DOM  
-**Links:** [GitHub Repo](https://github.com/kirti-singla123/todoflow) | [Live Demo](https://todoflow-demo.netlify.app)
+**Links:** [GitHub Repo](https://github.com/kirti-singla123/todoflow) | [Live Demo](https://todoflow-six.vercel.app/)
 
 ---
 
 ### 🎬 MovieHub – React Movie Wishlist App
 **Description:** A modern and responsive movie discovery platform that lets users browse trending films from TMDB, add favorites to a wishlist, and persist selections using localStorage.  
 **Tech Stack:** React, JavaScript (ES6+), Bootstrap, TMDB API, React Context API, localStorage, HTML5, CSS3  
-**Links:** [GitHub Repo](https://github.com/kirti-singla123/moviehub) | [Live Demo](https://moviehub-demo.netlify.app)
+**Links:** [GitHub Repo](https://github.com/kirti-singla123/moviehub) | [Live Demo](https://popcornplanet.netlify.app/)
 
 ---
 
