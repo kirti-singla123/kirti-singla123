@@ -24,7 +24,7 @@ A showcase of my best work demonstrating various technologies and problem-solvin
 ### 🍦 Creamy – Ice Cream E-commerce Website
 **Description:** A Django-powered ice cream shop where users can browse flavors, manage their cart, and place orders. Includes secure authentication, product browsing, and a responsive Bootstrap design.  
 **Tech Stack:** Python, Django, HTML, CSS, JavaScript, Bootstrap, SQLite, PayPal Sandbox  
-**Links:** [GitHub Repo](https://github.com/kirti-singla123/Creamy) | [Live Demo](https://creamy-com.onrender.com/)
+**Links:** [GitHub Repo](https://github.com/kirti-singla123/Creamy) | [Backend Repo](https://github.com/kirti-singla123/GlamourHeaven-Backend) | [Live Demo](https://creamy-com.onrender.com/)
 
 ---
 
