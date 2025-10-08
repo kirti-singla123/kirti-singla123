@@ -57,8 +57,4 @@ A showcase of my best work demonstrating various technologies and problem-solvin
 [![GitHub](https://img.shields.io/badge/GitHub-kirti--singla123-black?style=flat-square&logo=github)](https://github.com/kirti-singla123)
 
 
-## 📈 GitHub Stats
-
-![Kirti's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirti-singla123&show_icons=true&theme=radical&cache_seconds=1800)
-
 
