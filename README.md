@@ -46,3 +46,6 @@ Building modern, responsive web applications with a focus on clean code and user
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kirti-singla123&show_icons=true)
 
+![Kirti's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirti-singla123&show_icons=true&theme=radical&cache_seconds=1800)
+
+
